@@ -1,0 +1,18 @@
+***  Я Android разработчик
+- Пишу небольшие приложения, решающие задачи для меня и окружающих меня людей
+
+- Окончил бакалавриат СПбГУ по направлению "Программирование и информационные технологии"
+- Учусь в магистратуре СПбГУ
+- Прохожу стажировку в Яндекс Еде
+
+
+*** Мои последние проекты:
+- [[https://github.com/pisegov/white-dragon-vpn][Android Клиент]] для собственного VPN сервиса
+- [[https://github.com/pisegov/surf-study-jam-application][Практическое задание]] для летнего online интенсива по Android разработке от [[https://surf.ru/][Surf]]
+- [[https://github.com/pisegov/elcap-cleanlinnes][Телеграм бот на Kotlin]] для вызова сотрудника для скалодрома [[https://elcapitan.club/][El Capitan]]
+  - Ботом пользуются сотрудники скалодрома
+- [[https://github.com/pisegov/Notification-Transmitter-Android-App][Приложение для перенаправления уведомлений]] с Android устройства в [[https://github.com/pisegov/Notification-Transmitter-Telegram-Bot][Телеграм бота]]
+
+
+*** Мне интересно разрабатывать программы, которые делают что-то одно и делают это хорошо
+- Кстати, я использую Arch

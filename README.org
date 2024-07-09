@@ -6,8 +6,8 @@
 
 
 *** Мои последние проекты:
+- [[https://github.com/pisegov/avito-trainee-task][Приложение]] для быстрого поиска информации по фильмам и сериалам с платформы «Кинопоиска»
 - [[https://github.com/pisegov/white-dragon-vpn][Android Клиент]] для собственного VPN сервиса
-- [[https://github.com/pisegov/surf-study-jam-application][Практическое задание]] для летнего online интенсива по Android разработке от [[https://surf.ru/][Surf]]
 - [[https://github.com/pisegov/elcap-cleanlinnes][Телеграм бот на Kotlin]] для вызова сотрудника для скалодрома [[https://elcapitan.club/][El Capitan]]
   - Ботом пользуются сотрудники скалодрома
 - [[https://github.com/pisegov/Notification-Transmitter-Android-App][Приложение для перенаправления уведомлений]] с Android устройства в [[https://github.com/pisegov/Notification-Transmitter-Telegram-Bot][Телеграм бота]]
